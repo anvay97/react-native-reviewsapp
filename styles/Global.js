@@ -9,7 +9,8 @@ const GlobalStyles = StyleSheet.create({
     titleText:{
         fontFamily: 'nunito-bold',
         fontSize: 18,
-        color: '#333'
+        color: '#333',
+        textAlign: 'justify'
     },
 
     paragraph:{
